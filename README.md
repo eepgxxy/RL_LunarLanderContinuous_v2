@@ -15,4 +15,4 @@ The current result is far better than the claimed pass points 200+.
 
 ![eval rewards](https://github.com/eepgxxy/RL_LunarLanderContinuous_v2/blob/master/eval.png)
 
-![eval rewards](https://github.com/eepgxxy/RL_LunarLanderContinuous_v2/blob/master/result.gif)
+![result](https://github.com/eepgxxy/RL_LunarLanderContinuous_v2/blob/master/result.gif)
